@@ -16,6 +16,7 @@ font-size: 18px;
 canvas{
     box-shadow:10px 10px 10px gray;
     border-radius: 10px;
+    margin-top:70px;
 }
 #back_button{
     float:right;
